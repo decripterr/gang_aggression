@@ -24,7 +24,8 @@ Add ensure gang_aggression to your server.cfg.
 
 Restart the server or refresh resources.
 
-🧠 Future Improvements (Planned or DIY)
+🧠 Future Improvements 
+(Planned or DIY)
 Territory-based aggression
 
 Framework integration (QBCore, ESX)
